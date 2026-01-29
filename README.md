@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House Price Prediction Web Application
 
 A Machine Learning–powered web application that predicts house prices based on user inputs such as area, number of bedrooms, and bathrooms.  
@@ -112,6 +113,9 @@ Loaded directly into Flask backend
 -  GitHub: https://github.com/mohankalimuthu
 
 ## Contributing
+=======
+## Contributing 
+>>>>>>> ba023ce08a6bf59087699d06f7b9b05e1766dfc4
 
 Contributions are welcome!
 
